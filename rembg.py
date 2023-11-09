@@ -1,4 +1,6 @@
 from PIL import Image
+from rembg import remove
+
 input_path =  'input_image.jpg' # specify path to input image
 
 # Store path of the output image in the variable output_path
