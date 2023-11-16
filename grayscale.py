@@ -5,3 +5,9 @@ pil_image = Image.open(im_path).convert('L')   # open image file and convert to 
 pil_image.save('grayscale.jpg')  # save file at desired location
 
 pil_image.show()    # display image
+
+# Display image using matplotlib
+
+import matplotlib.pyplot as plt
+plt.imshow(pil_image)
+
