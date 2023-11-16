@@ -11,8 +11,8 @@ Harness the power of Python's PIL library to effortlessly convert your images in
 
 Features:
 
-Effortless grayscale conversion using PIL
-Enhanced image visualization with Matplotlib
-Simple and user-friendly
+* Effortless grayscale conversion using PIL
+* Enhanced image visualization with Matplotlib
+* Simple and user-friendly
 
 Embrace the artistry of grayscale with this Python program.
