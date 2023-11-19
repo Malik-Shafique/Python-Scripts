@@ -4,6 +4,9 @@ Main focus on OpenCV, PIL etc.
 ### rembg.py
 Python code to remove background using "rembg"
 
+Use command "pip install rembg" to install "rembg"
+Use command "pip install pillow" to install "pillow"/"PIL"
+
 ## Transform Images with Graceful Shades: A PIL-Powered Grayscale Converter
 ### grayscale.py 
 
