@@ -3,7 +3,7 @@ Some useful python scripts for Computer Vision Beginners and Enthusiasts.
 Main focus on OpenCV, PIL etc.
 
 ## Transform Images with Graceful Shades: A PIL-Powered Grayscale Converter
-### grayscale.py 
+### grayscale_pil.py 
 
 Harness the power of Python's PIL library to effortlessly convert your images into captivating grayscale masterpieces. Seamlessly blend simplicity and elegance with this intuitive program that utilizes the versatility of PIL and the visualization prowess of Matplotlib. Witness the transformation of your images as they're imbued with a timeless charm.
 
