@@ -21,6 +21,11 @@ Embrace the artistry of grayscale with this Python program.
 Place the file in same folder as grayscale_opencv.py, then run the program grayscale_opencv.py.
 
 
+## Face Detection in Image
+### face_detect.py
+
+Detect face in image using python and OpenCV
+
 
 
 ### rembg.py
